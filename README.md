@@ -1,2 +1,2 @@
 # CSES
-Solutions of cses problems
+Solutions of cses problems.
